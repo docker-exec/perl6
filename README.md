@@ -1,4 +1,4 @@
-# Docker Exec Image: Perl6
+# Docker Exec Image: Perl 6
 
 A Dockerfile describing an container capable of executing Perl 6 source files.
 
